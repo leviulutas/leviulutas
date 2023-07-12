@@ -1,2 +1,2 @@
-✉️  You can contact me at leventkesen2000@hotmail.com
-🧠  I'm learning Python
+✉️  You can contact me at leventulutas10@gmail.com
+🧠  I'm learning Python and Node.js
